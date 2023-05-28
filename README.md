@@ -13,6 +13,6 @@
 
 #### Dengan Mengunduh Source Code
 
-[Unduh disini](https://www.github.com/SIUBSI)
+[Unduh Versi terbaru](https://github.com/SIUBSI/HitungNilai/releases/tag/v1.0.0) | [Lihat Daftar Versi Tersedia](https://github.com/SIUBSI/HitungNilai/releases/)
 
-Copyright &copy; Reighpuy:SIUBSI
+Copyright &copy;Reighpuy:SIUBSI
